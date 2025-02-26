@@ -28,6 +28,7 @@
     python convert_dji_thermal.py
 
 ❌ よくあるエラーと対処方法
+
 1️⃣ Permission denied エラー
 
 エラー例：
